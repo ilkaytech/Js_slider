@@ -1,4 +1,4 @@
-var models = [
+let models = [
   {
     name: "Tandem Silindirler",
     img: "img/silinder2.jpeg",
@@ -26,8 +26,8 @@ var models = [
   },
 ];
 
-var index = 2;
-var slaytCount = models.length;
+let index = 4;
+let slaytCount = models.length;
 
 document
   .querySelector(".fa-arrow-circle-left")
