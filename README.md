@@ -1,1 +1,3 @@
-# slider_js
+# Dom Projects
+
+### Slider Controls
