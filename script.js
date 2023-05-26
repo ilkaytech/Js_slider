@@ -26,7 +26,22 @@ var models = [
   },
 ];
 
-var index = 3;
+var index = 2;
+var slaytCount = models.length;
+
+document
+  .querySelector(".fa-arrow-circle-left")
+  .addEventListener("click", function () {
+    index--;
+    console.log(index);
+  });
+
+document
+  .querySelector(".fa-arrow-circle-right")
+  .addEventListener("click", function () {
+    index++;
+    console.log(index);
+  });
 
 document.querySelector(".card-title").textContent = models[index].name;
 
