@@ -2,4 +2,4 @@
 
 ### Slider Controls
 
-### 🛠️ [Demo Link](https://ilkaytech.github.io/Js_slider/)
+### 🛠️ [Demo Link](https://js-slider1.netlify.app)
