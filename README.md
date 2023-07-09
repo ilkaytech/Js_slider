@@ -7,7 +7,7 @@ Project aims to create a website page.
 ## Project Skeleton
 
 ```
-004-website-page-design (folder)
+Js Dom Slider (folder)
 |
 |----readme.md         # Definition of the project
 |----img               # Images of the project
